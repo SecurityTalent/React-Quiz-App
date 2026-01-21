@@ -18,11 +18,10 @@ A fun and interactive quiz app built with **React** to test your React knowledge
 
 ## 🖼️ Preview
 
-> Welcome Screen & Question Screen
-
-![Welcome Screen](https://raw.githubusercontent.com/SecurityTalent/React-Quiz-App/main/public/POC%200.png)
-
-![Quiz Screen](https://raw.githubusercontent.com/SecurityTalent/React-Quiz-App/main/public/POC%201.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SecurityTalent/React-Quiz-App/main/public/POC%200.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/SecurityTalent/React-Quiz-App/main/public/POC%201.png" width="45%" />
+</p>
 
 ---
 

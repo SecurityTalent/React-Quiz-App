@@ -4,13 +4,15 @@
 .appHeader {
   width: 66rem;
   margin-bottom: 4rem;
+  display: block;
+  margin: auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
 .appHeader img {
-  width: 14rem;
+  width: 10rem;
 }
 
 .appHeader h1 {
@@ -18,3 +20,8 @@
   font-size: 5.6rem;
   color: #f1f3f5;
 }
+
+
+
+
+
