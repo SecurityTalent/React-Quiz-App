@@ -1,12 +1,14 @@
 import React from 'react'
 
-function StartScreen({numQuestion}) {
+function StartScreen({ numQuestion }) {
   return (
     <>
+      <div>
         <h1>Welcome to The React Quiz!</h1>
-        <p>{numQuestion} question to test your React knowledge</p>
-        <button>let's start</button>
-    
+        <h3>{numQuestion} question to test your React knowledge</h3>
+        <button className='btn btn-button'>let's start</button>
+      </div>
+
     </>
   )
 }
