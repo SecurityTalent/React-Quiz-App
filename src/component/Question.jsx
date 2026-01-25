@@ -1,6 +1,7 @@
 import React from 'react'
 
-function Question() {
+function Question({questions}) {
+  console.log(questions)
   return (
     <div>Question</div>
   )
