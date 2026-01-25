@@ -1,9 +1,15 @@
 import React from 'react'
+import Option from './Option'
 
-function Question({questions}) {
+function Question({ questions }) {
   console.log(questions)
   return (
-    <div>Question</div>
+    <div>
+
+      <h4>{questions.question}</h4>
+      <Option questions={questions}/>
+
+    </div>
   )
 }
 
